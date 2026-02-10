@@ -12,7 +12,7 @@ Feel free to reach out! Either on LinkedIn, or through Email.
 - I've studied two martial arts
 - My favorte color is green
 - I don't drink coffee or tea
-- **Hobbies:** Martial Arts, Graphics Design, MMO Games
+- **Hobbies:** Taekwondo, Graphics Design, MMO Games
 <!--
 **gavin-bender/gavin-bender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
