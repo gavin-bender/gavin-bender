@@ -11,7 +11,7 @@ Feel free to reach out! Either on LinkedIn, or through Email.
 **Fun Facts**
 - I've studied two martial arts
 - My favorte color is green
-- I don't drink coffee or tea
+- My favorite weather is rainy weather 🌧️
 - **Hobbies:** Taekwondo, Graphics Design, MMO Games
 <!--
 **gavin-bender/gavin-bender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
