@@ -2,7 +2,7 @@
 
 I'm a Computer Science Engineering student at the University of Michigan. 
 
-I like studying all of CS, but I primarily focus on business applications, machine learning, and drone autonomy.
+I like studying all of CS, but I primarily focus on business applications, machine learning, and AI harnessing.
 
 My first coding projects were [Roblox games](https://www.roblox.com/games/82864632268577/Alpine-Border-Coastal-Castle#!/about). I've developed many milsims and roleplay games there.
 
