@@ -10,7 +10,7 @@ Feel free to reach out! Either on LinkedIn, or through Email.
 
 **Fun Facts**
 - I've studied two martial arts
-- My favorte color is green
+- My favorite color is green
 - My favorite weather is rainy weather 🌧️
 - **Hobbies:** Taekwondo, Graphics Design, MMO Games
 <!--
